@@ -1,0 +1,6 @@
+x=input("Enter a number: ")
+y=input("Enter power: ")
+x=int(x)
+y=int(y)
+res=(x**y)
+print(res)

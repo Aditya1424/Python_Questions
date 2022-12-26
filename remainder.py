@@ -1,0 +1,5 @@
+a=input("enter first number: ")
+b=input("enter second number: ")
+a=int(a)
+b=int(b)
+print("the remainder a is divided by b is:",a%b)
